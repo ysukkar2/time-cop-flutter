@@ -1,0 +1,132 @@
+about = حول
+
+appDescription = تطبيق تتبع الوقت الذي يحترم خصوصيتك وينجز المهمة دون أن يتوهم.
+
+appLegalese = حقوق النشر © Kenton Hamaluik، 2020
+
+readme = الملف التمهيدي
+
+changeLog = سجل التغيير
+
+sourceCode = مصدر الرمز
+
+whatAreYouDoing = ماذا تفعل؟
+
+projects = المشاريع
+
+export = تصدير
+
+noProject = (لا يوجد مشروع)
+
+confirmDelete = تأكيد الحذف
+
+deleteTimerConfirm = هل أنت متأكد أنك تريد حذف هذا المؤقت؟
+
+cancel = إلغاء
+
+delete = حذف
+
+runningTimers = تشغيل المؤقتات
+
+timeCopDatabase = قاعدة بيانات شرطي الوقت ({ $date })
+
+filter = منقي
+
+from = من عند
+
+to = إلى
+
+project = مشروع
+
+description = وصف
+
+timeH = الوقت (ساعات)
+
+timeCopEntries = إدخالات شرطي الوقت ({ $date })
+
+createNewProject = إنشاء مشروع جديد
+
+editProject = تحرير المشروع
+
+pleaseEnterAName = الرجاء إدخال اسم
+
+projectName = اسم المشروع
+
+create = خلق
+
+save = حفظ
+
+areYouSureYouWantToDelete = هل أنت متأكد أنك تريد حذف هذا المشروع؟
+
+editTimer = تحرير الموقت
+
+whatWereYouDoing = ماذا كنتم تفعلون؟
+
+startTime = وقت البدء
+
+endTime = وقت النهاية
+
+duration = المدة الزمنية
+
+appName = شرطي الوقت
+
+logoSemantics = شعار الوقت الشرطي
+
+noDescription = (بدون وصف)
+
+options = خيارات
+
+groupTimers = قم بتجميع الموقتات المماثلة في اليوم
+
+columns = الأعمدة
+
+date = تاريخ
+
+combinedProjectDescription = الجمع بين المشروع والوصف
+
+reports = التقارير
+
+nHours = { $hours } ساعة
+
+averageDailyHours = متوسط ساعات العمل اليومية
+
+totalProjectShare = إجمالي حصة المشروع
+
+weeklyHours = ساعات العمل الأسبوعية
+
+contributors = المساهمون
+
+settings = الإعدادات
+
+theme = موضوع
+
+auto = تلقائي
+
+light = ضوء
+
+dark = داكن
+
+black = أسود
+
+langName = العربية
+
+language = لغة
+
+automaticLanguage = تلقائي ({ $langName })
+
+collapseDays = أيام الانهيار
+
+autocompleteDescription = أوصاف الإكمال التلقائي
+
+defaultFilterStartDateToMonday = تاريخ بدء التصفية الافتراضي ليوم الاثنين
+
+hours = ساعات
+
+total = مجموع
+
+oneTimerAtATime = السماح بمؤقت تشغيل واحد فقط في كل مرة
+
+selectAll = اختر الكل
+
+selectNone = لا تختر شيء
+
